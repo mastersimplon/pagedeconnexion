@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(161, 18, 18);
+}
+
+
+
+h2{
+    text-align:center;
+    margin-left: 15px;
+}
+.cadre{
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    margin-left: 500px;
+    
+    
+}
+label{
+    color: green;
+    margin-right: 110px;
+    margin: 25px;
+
+}
+h3{margin-left: 25px;}
+    
+label:hover{
+    color:yellow;
+    margin-left: 25px;
+}
+fieldset{
+    border-radius: 20;
+    margin-bottom:2px;
+    width:20px;
+    padding-top: 50px;
+    margin-left: 25px;
+    margin-right: 2px;
+}
+#connecte{
+    margin-left: 25px;
+}
